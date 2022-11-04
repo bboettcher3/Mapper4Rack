@@ -1,0 +1,16 @@
+{
+  "slug": "Mapper4Rack",
+  "name": "Mapper4Rack",
+  "version": "2.0.0",
+  "license": "proprietary",
+  "brand": "Mapper4Rack",
+  "author": "Brady Boettcher",
+  "authorEmail": "bradyboettcher@gmail.com",
+  "authorUrl": "bboettcher3.github.io",
+  "pluginUrl": "github.com/bboettcher3/Mapper4Rack",
+  "manualUrl": "",
+  "sourceUrl": "",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": []
+}
