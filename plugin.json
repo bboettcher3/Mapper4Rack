@@ -12,5 +12,12 @@
   "sourceUrl": "",
   "donateUrl": "",
   "changelogUrl": "",
-  "modules": []
+  "modules": [
+    {
+      "slug": "Mapper4Rack",
+      "name": "Mapper4Rack",
+      "description": "6 src and 6 dst signals",
+      "tags": []
+    }
+  ]
 }
